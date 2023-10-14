@@ -1,1 +1,1 @@
-console.loe(7);
+console.log(7);
